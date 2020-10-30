@@ -15,6 +15,14 @@ Ao realizar cada um dos passos (ou mais), o aluno deve 'commitar' as alteraçõe
 
 Até 07/11/2020 antes da aula.
 
-## Como entregar?
+### Como entregar?
 
 O professor irá verificar o seu projeto no seu repositório.
+
+## Links úteis
+
+https://matematicabasica.net/soma-de-fracoes/
+
+https://centrodeobesidadeediabetes.org.br/tudo-sobre-obesidade/calculadora-de-imc/
+
+https://www.infoescola.com/fisica/conversao-de-escalas-termometricas/
